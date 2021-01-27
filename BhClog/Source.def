@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+	insertLog
+	insertLogFile
+	insertLogPath
